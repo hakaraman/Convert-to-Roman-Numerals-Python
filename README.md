@@ -1,4 +1,4 @@
-# Coding Challenge - 001 : Convert to Roman Numerals 
+# Coding Challenge : Convert to Roman Numerals 
 
 Purpose of the this coding challenge is to write a program that converts the given number to the Roman numerals.
 
